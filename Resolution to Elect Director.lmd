@@ -1,0 +1,44 @@
+---
+
+# Mixins
+agree_date:
+company:
+company_registration:
+director_name:
+director_prev_name:
+resignation_date:
+shares_class:
+shares_held:
+shares_held_class:
+
+# Optional Clauses
+company_gov_bylaws:
+company_gov_oa:
+dir_prev_resign:
+shares:
+shares_in_classes:
+stock:
+
+---
+
+Action by Written Consent of the {{shares_class}} [{{shares}} Shareholders][{{stock}} Stockholders] of {{company}}
+
+The undersigned holders of {{shares_class}} [{{shares}} Shares][{{stock}} Stock] of {{company}} {{company_registration}} (the “Company”), pursuant to the Company [{{company_gov_oa}} Operating Agreement][{{company_gov_bylaws}} By Laws], hereby adopt the following resolution by written consent:
+
+# Appointment of {{shares_class}} Director
+
+[{{dir_prev_resign}} Whereas the Director previously elected by the {{shares_class}} Shareholders, {{director_prev_name}} resigned as of {{resignation_date}}.]
+
+Now, Therefore, Be It Resolved, that, effective as of the {{agree_date}}, the undersigned [{{shares}} shareholders][{{stock}} stockholders] hereby elect {{director_name}} as the {{shares_class}} Director who shall serve until his respective successor is duly elected and qualified, or until earlier resignation or removal.
+
+This action by written consent may be signed in one or more counterparts, each of which shall be deemed an original, and all of which shall constitute one instrument.  This action by written consent shall be filed with the minutes of the proceedings of the [{{shares}} shareholders][{{stock}} stockholders] of the Company.
+
+IN WITNESS HEREOF, the parties have executed this Agreement as of the date set forth above.
+
+For the [{{shares}} Shareholder][{{stock}} Stockholder]: ________________________________________________ (signature)
+
+Dated:________________________By: ________________________ (print)
+
+Common [{{shares}} Shares][{{stock}} Stock] held: {{shares_held}}
+
+[{{shares_in_classes}} {{shares_class}} Preferred Stock: {{shares_held_class}}]
