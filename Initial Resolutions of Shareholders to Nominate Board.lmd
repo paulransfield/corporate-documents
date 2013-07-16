@@ -1,0 +1,41 @@
+---
+
+# Mixins
+board_initial_chair:
+company_name:
+
+---
+
+Action by Unanimous Written Consent of the Shareholders of {{company_name}} ("Company")
+
+The undersigned, constituting all of the Shareholders of the Company, hereby take the following actions and adopt the following resolutions by unanimous written consent without a meeting:
+
+# Election of Board
+
+*RESOLVED*: That the following individuals are elected to the Board of Directors of the Company with all the rights and responsibilities identified by and subject to any relevant law, the Company's Articles of Incorporation, By Laws and / Operating Agreement. The rights and responsibilities of the Board of Directors shall be further subject to any resolution of the Shareholders which does not violate the above identified documents.
+
++-----------------------+----------------------+
+| Name                  |  Title               |
++=======================+======================+
+| Officer1              | Title1               |
++-----------------------+----------------------+
+| Officer2              | Title2               |
++-----------------------+----------------------+
+
+# Election of Chairperson of Board
+
+*RESOLVED*: The Shareholders elect the following individual as the Chairperson of the Board of Directors of the Company with all the rights and responsibilities identified by and subject to any relevant law, and the Company's Articles of Incorporation, By Laws and / Operating Agreement. The rights and responsibilities of the Chairperson of the Board of Directors shall be further subject to any resolution of the Shareholders which does not violate the above identified documents. The Chairperson of the Board shall serve until removed, resignation, or replacement according to the terms of the any relevant law, the Company's Articles of Incorporation, By Laws and / Operating Agreement, or any resolution of the Shareholders. The Chairperson of the Board of Directors shall be: {{board_initial_chair}}.
+
+# Omnibus Resolution
+
+*RESOLVED*: That each of the Board of Directors of the Company is authorized and empowered to take such other actions and sign such other documents as may be necessary or advisable to carry out the intent and accomplish the purposes of the foregoing resolutions.
+
+This action may be signed in one or more counterparts, each of which shall be deemed an original and all of which together shall constitute one instrument.
+
+ON BEHALF OF THE COMPANY, AND FOR THE SHAREHOLDERS, THE ABOVE IS RESOLVED
+
+Signature: ______________________________
+
+Print: _________________________
+
+Date: ________________________
