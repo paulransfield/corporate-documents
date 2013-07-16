@@ -1,0 +1,117 @@
+---
+
+# Optional Clauses
+jv_private: 
+jv_public: 
+
+# Mixins
+choice_of_law: 
+jurisdiction: 
+jv_agent: 
+jv_hq: 
+jv_name: 
+jv_purpose: 
+jv_reg: 
+party1: 
+party1_address: 
+party1_full: 
+party1_reg: 
+party1_rep: 
+party1_type: 
+party2: 
+party2_address: 
+party2_full: 
+party2_reg: 
+party2_rep: 
+party2_type: 
+regulating_act: 
+
+# Structured Headers
+level-1:   Article 1.
+level-2:   Section 1.
+no-indent: l., ll.
+
+---
+
+THIS AGREEMENT, ALSO KNOWN AS THE OPERATING AGREEMENT OF THE JOINT VENTURE is entered into as of the date shown below by and between {{party1_full}} ("{{party1}}"), and {{party2_full}} ("{{party2}}"). The {{party1}} is a {{party1_type}} registered under the laws of {{party1_reg}}, with an address of {{party1_address}}, operating in and therefore subject to the laws of {{party1_reg}}, and represented by {{party1_rep}}. The {{party2_full}} is a {{party2_type}} registered under the laws of {{party2_reg}}, with an address of {{party2_address}}, operating in and therefore subject to the laws of {{party2_reg}}, and represented by {{party2_rep}}. These individuals are referred to individually as a Member and collectively as the Members. This agreement is entered into with reference to the following facts:
+
+The Members desire to form a joint venture [{{jv_private}} private][{{jv_public}} public] company limited by shares ("Company") with a share capital under {{regulating_act}} (the "Act"). The Members enter into this Agreement to provide for the governance of the Company, the conduct of the Company's business, and to specify their relative rights and obligations.
+
+NOW, THEREFORE, in consideration of the premises and the mutual covenants contained herein, the parties hereto agree to and do associate themselves solely and exclusively for the purposes and upon the terms and conditions set forth herein.
+
+```
+l. Formation
+ll. Formation. The undersigned have formed a [{{jv_private}} Private][{{jv_public}} Public] Company, Limited by Shares under the laws of {{jurisdiction}} {{jv_reg}}. The Company can sue and be sued on its own name, the Company is independent from the Members and all related persons.
+ll. Name. The name of this Company is {{jv_name}} (the "Company"). Only the Members of the Company can change the name of the Company, by unanimous vote of all Members currently active.
+ll. Business.  The purpose of the Company is to {{jv_purpose}}.
+ll. Principal Place of Business. The location of the principal place of business of the Company is {{jv_hq}}. The Members may change the principal place of business and establish additional places of business as they deem necessary or desirable to conduct the business of the Company.
+ll. Registered Agent. The Company's agent for service of process shall be {{jv_agent}}, or such other agent as the Company may designate from time to time.
+[{{jv_private}}ll. Limitations Upon Members of this Private Company. In compliance with Section 26(1) of the Act, as a Private Company Limited by Shares, the number of Members shall at all times remain equal to or less than thirty (30). Further, the transfer of any and all shares of capital held in the Company by any Member of the Company is hereby restricted as detailed in Article IX of this Agreement. Lastly, at no time and in no way shall shares in the Company be offered for public subscription.]
+l. Board of Directors
+ll. Number of Directors.
+ll. Initial Board. 
+ll. Removal and Replacement of Directors.
+ll. Chairman of the Board (Initial, Election & Removal).
+ll. Duties and Responsibilities of Chairman.
+ll. Secretary (Initial, Election & Removal).
+ll. Duties and Responsibilities of Secretary.
+ll. Conflict of Interest of Directors.
+l. Directors' Meetings
+ll. Frequency of Directors' Meetings.
+ll. Notice of Directors' Meetings.
+ll. Quorom for Directors' Meetings.
+ll. Recording of Minutes for Directors' Meetings.
+l. Decisions Reserved to Board
+ll. Decisions Requiring a Unanimous Decision.
+ll. Decisions Requiring a Majority Decision.
+ll. Mechanisms to Overcome Deadlock. 
+l. Share Capital
+l. Property Contributions
+l. Share Transfer
+ll. Continuing Obligations of Departing Shareholder.
+l. Valuation of Shares
+l. Further Contribution
+ll. Further Contributions to Support Company Losses.
+ll. Further Contributions to Support Expansion of the Company.
+l. Shareholders' Meetings
+ll. Decisions Requiring [Unanimous|Supermajority] Decision.
+ll. Decisions Requiring Majority Decision.
+ll. Proxy Voting.
+ll. Notice of Shareholder Meetings.
+ll. Quorom for Shareholder Meetings.
+l. Dividend Policy
+l. Management
+l. Employment
+ll. Limits on Company's Abilities to Hire.
+ll. Seconded Employees.
+ll. Transfered Employees. # Better for Articles of Association....?
+l. Property
+l. Accounting
+ll. Method of Accounting.
+ll. Accounting Year.
+ll. Auditing of Accounting Records.
+l. Termination
+l. Confidentiality
+l. Intellectual Property
+l. Final Provisions
+ll. Interpretation. This Agreement shall be construed and enforced pursuant to the laws of {{choice_of_law}}. All Parties declare that Agreement shall not be construed against any party on the grounds that such party drafted the Agreement or caused it to be drafted. The headings and titles of the paragraphs of this Agreement are for convenience purposes only, and are not intended to define, limit or construe the contents of the various paragraphs. Time is of the essence of every term, condition, obligation and provision hereof unless otherwise stated or implied.
+ll. Entire Agreement. All parties certify that this Agreement including the Exhibits and Attachments listed below sets forth the entire understanding of the parties with respect to the subject matter hereof and supersedes all prior agreements of the parties, whether oral or written, relating to any or all matters covered by and contained or otherwise dealt with in this Agreement. All parties agree that no provision of this Agreement may be modified, except by a written instrument duly signed and acknowledged by each of the parties hereto.
+ll. Severance. If any provision or clause of this Agreement, or any portion thereof, is held to be invalid by a court of competent jurisdiction, then such provision or clause shall be severed herefrom without affecting any other provision, the balance of which shall remain in full force and effect.
+ll. Waiver. No waiver by either party for a breach or default hereunder by the other party shall be considered valid, unless expressed in a writing signed by the aggrieved party. Neither shall such waiver of any breach or default be deemed as a waiver of any prior or subsequent breach or default of the same or other provisions of this Agreement.
+
+ll. Notice. Any notice to be given to either party shall be sent by registered or certified mail, return receipt requested, or in the absence of such services, by courier, to the other party at its last known address. Either party may change the address to which notices are to be sent by so notifying the other party in writing as set forth in this provision. If mailed as provided in this Agreement, notice shall be deemed to have been given as of the date of mailing.
+ll. Ability to Contract. All parties each represent and warrant that they have the power, authority and right to enter into this Agreement and to carry out and perform the terms, covenants and conditions hereof. All parties certify they have been given the opportunity to consult with appropriate legal counsel, and have taken advantage of that opportunity to the extent desired. All parties further acknowledge they have read and understand this Agreement, are fully aware of its legal effect, and have entered into it freely based on the exercise of their own judgment and free will.
+```
+
+Exhibits and Attachments: 
+    []
+    []
+
+IN WITNESS HEREOF, the parties have executed this Agreement as of the date set forth above.
+
+For the {{party1}} - Signature: ______________________________
+
+Date:________________________ Print: _________________________
+
+For the {{party2}} - Signature: ______________________________
+Date: _______________________ Print: _________________________
