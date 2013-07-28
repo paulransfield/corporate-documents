@@ -1,92 +1,92 @@
 ---
 
 # Mixins
-co_name: 
-co_reg: 
-dirs_number: 
-dirs_term: 
-jurisdiction: 
-party1: 
-party1_address: 
-party1_full: 
-party1_reg: 
-party1_rep: 
-party1_short: 
-party1_type: 
-party2: 
-party2_address: 
-party2_full: 
-party2_reg: 
-party2_rep: 
-party2_short: 
-party2_type: 
-party3: 
-party3_address: 
-party3_full: 
-party3_reg: 
-party3_rep: 
-party3_short: 
-party3_type: 
-regulatory_act: 
+co_name:
+co_reg:
+dirs_number:
+dirs_term:
+jurisdiction:
+party1:
+party1_address:
+party1_full:
+party1_reg:
+party1_rep:
+party1_short:
+party1_type:
+party2:
+party2_address:
+party2_full:
+party2_reg:
+party2_rep:
+party2_short:
+party2_type:
+party3:
+party3_address:
+party3_full:
+party3_reg:
+party3_rep:
+party3_short:
+party3_type:
+regulatory_act:
 
 # Optional Clauses
-co_private: 
-co_private_bd_right_to_welcom: 
-co_private_no_oblig_purc: 
-co_private_right_due_dil_rev: 
-co_private_right_first_refusal: 
-co_private_shares_not_trans: 
-co_public: 
-dirctrs_elected_maj: 
-dirctrs_elected_plur: 
-dirctrs_elected_suprmaj: 
-dirs_act_wo_mtg: 
-dirs_bd_can_expand: 
-dirs_bd_can_fill_vac: 
-dirs_bd_cannot_expand: 
-dirs_bd_cannot_fill_vac: 
-dirs_bd_has_coms: 
-dirs_bd_maj_quorum: 
-dirs_bd_supmaj_quorum: 
-dirs_can_amend_bylaws: 
-dirs_elected_annually: 
-dirs_fixed_term: 
-dirs_get_comp: 
-dirs_many_reelect: 
-dirs_no_reelect: 
-dirs_not_shareholdrs: 
-dirs_one_reelect: 
-dirs_shareholdrs: 
-divids_equal_dist: 
-fiscl_yr_bd_sets: 
-fiscl_yr_cal_yr: 
-indem_empl: 
-indem_insure: 
-not_formed: 
-off_has_ceo: 
-off_has_cfo: 
-off_has_cont: 
-off_has_ed: 
-off_has_pres: 
-off_has_treas: 
-off_has_vp_many: 
-off_has_vp_one: 
-off_no_ceo: 
-prior_formation: 
-sharehold_act_wo_mtg: 
-sharehold_adj_mtg_if_lose_quorum: 
-sharehold_bd_rules: 
-sharehold_chair_mtgs: 
-sharehold_cont_mtg_if_lose_quorum: 
-sharehold_maj_quorum: 
-sharehold_suprmaj_quorum: 
-shares_corp_owners: 
-shares_in_classes: 
-shares_joint_owners: 
-shares_list: 
-shares_not_encumbered: 
-tit_by_laws: 
-tit_op_agree: 
+co_private:
+co_private_bd_right_to_welcom:
+co_private_no_oblig_purc:
+co_private_right_due_dil_rev:
+co_private_right_first_refusal:
+co_private_shares_not_trans:
+co_public:
+dirctrs_elected_maj:
+dirctrs_elected_plur:
+dirctrs_elected_suprmaj:
+dirs_act_wo_mtg:
+dirs_bd_can_expand:
+dirs_bd_can_fill_vac:
+dirs_bd_cannot_expand:
+dirs_bd_cannot_fill_vac:
+dirs_bd_has_coms:
+dirs_bd_maj_quorum:
+dirs_bd_supmaj_quorum:
+dirs_can_amend_bylaws:
+dirs_elected_annually:
+dirs_fixed_term:
+dirs_get_comp:
+dirs_many_reelect:
+dirs_no_reelect:
+dirs_not_shareholdrs:
+dirs_one_reelect:
+dirs_shareholdrs:
+divids_equal_dist:
+fiscl_yr_bd_sets:
+fiscl_yr_cal_yr:
+indem_empl:
+indem_insure:
+not_formed:
+off_has_ceo:
+off_has_cfo:
+off_has_cont:
+off_has_ed:
+off_has_pres:
+off_has_treas:
+off_has_vp_many:
+off_has_vp_one:
+off_no_ceo:
+prior_formation:
+sharehold_act_wo_mtg:
+sharehold_adj_mtg_if_lose_quorum:
+sharehold_bd_rules:
+sharehold_chair_mtgs:
+sharehold_cont_mtg_if_lose_quorum:
+sharehold_maj_quorum:
+sharehold_suprmaj_quorum:
+shares_corp_owners:
+shares_in_classes:
+shares_joint_owners:
+shares_list:
+shares_not_encumbered:
+tit_by_laws:
+tit_op_agree:
 
 # Structured Headers
 level-1: "# Article 1."
@@ -118,10 +118,10 @@ lll. by any shareholder of the Company who was a shareholder of record at the ti
 ll. Notice of Annual Meetings*. Except as otherwise provided by the Act, notice shall be provided by electronic transmission. Such Notice of each Annual Meeting of shareholders shall be given not less than ten (10) nor more than sixty (60) days before the date of the meeting to the electronic address provided by each shareholder entitled to vote at such meeting. Such notice shall specify the place, if any, date and hour, and the means of remote communications, if any, by which shareholders and proxyholders may be deemed to be present in person and vote at any such meeting.
 ll. Agenda of the Annual Meeting*. At an Annual Meeting of the shareholders, only such business shall be conducted as shall have been properly brought before the meeting. For nominations or other business to be properly brought before an Annual Meeting by a shareholder, the shareholder must submit written notice of the business or nomination to the Board a minimum of ten (10) days prior to the Annual Meeting via electronic communication. Any notice of business or nomination that is not received by the Board a minimum of ten (10) days prior to the Annual Meeting shall not be considered by the Board nor added to the business or nominations tabled for discussion at the Annual Meeting, except as otherwise provided in the Act.
 ll. Special Meetings*. Special meetings of the shareholders of the Company may be called, for any purpose or purposes, by the Chairperson of the Board of Directors, by the Board of Directors pursuant to a resolution adopted by a majority of the total number of authorized Directors or by the holders of shares entitled to cast not less than forty percent (40%) of the votes at the meeting, and shall be held at such place, on such date, and at such time as the Board shall fix.
-ll. Notice of Special Meetings*. If a Special Meeting is properly called by any person or persons other than the Board of Directors, the request shall be in writing, specifying the general nature of the business proposed to be transacted, and shall be delivered electronically to the Board. Upon receipt of the notice, the Board shall determine if the notice was valid as it was given by those authorized under this Agreement to call a Special Meeting. The Board shall call a meeting within sixty (60) days after receipt of notice, unless the Board has determined that the notice was invalid. The provisions of the Notice of Annual Meetings shall apply to Special Meetings. 
+ll. Notice of Special Meetings*. If a Special Meeting is properly called by any person or persons other than the Board of Directors, the request shall be in writing, specifying the general nature of the business proposed to be transacted, and shall be delivered electronically to the Board. Upon receipt of the notice, the Board shall determine if the notice was valid as it was given by those authorized under this Agreement to call a Special Meeting. The Board shall call a meeting within sixty (60) days after receipt of notice, unless the Board has determined that the notice was invalid. The provisions of the Notice of Annual Meetings shall apply to Special Meetings.
 ll. Agenda of Special Meetings*. No business may be transacted at such special meeting otherwise than specified in such notice.
 ll. Quorum for All Shareholder Meetings*. At all meetings of shareholders, except where otherwise provided by the Act, or by this Agreement, the presence, in person, by remote communication or by proxy duly authorized, of the holders of [{{sharehold_maj_quorum}} a majority][{{sharehold_suprmaj_quorum}} more than 70%] of the outstanding shares of shares entitled to vote shall constitute a quorum for the transaction of business. [{{sharehold_cont_mtg_if_lose_quorum}} The shareholders present at a duly called or convened meeting, at which a quorum is present, may continue to transact business until adjournment, notwithstanding the withdrawal of enough shareholders to leave less than a quorum.][{{sharehold_adj_mtg_if_lose_quorum}} The shareholders present at a duly called or convened meeting shall not continue to transact business and shall adjourn if enough shareholders depart the meeting such that there is less than a quorum.]
-ll. No Quorum for Shareholder Meetings*. In the absence of a quorum, any meeting of shareholders may be adjourned, from time to time, either by the Chairperson of the meeting or by vote of the holders of a majority of the shares represented there, but no other business shall be transacted at such meeting. 
+ll. No Quorum for Shareholder Meetings*. In the absence of a quorum, any meeting of shareholders may be adjourned, from time to time, either by the Chairperson of the meeting or by vote of the holders of a majority of the shares represented there, but no other business shall be transacted at such meeting.
 ll. Resolutions of Shareholders*. Except as otherwise provided within the Act or these Bylaws, in all matters other than the election of Directors which are conducted at any meeting of Shareholders, the affirmative vote of a majority of shares present in person, by remote communication, or represented by proxy duly authorized at a validly constituted meeting and entitled to vote on the subject matter shall constitute the action and resolution of entire shareholders.
 ll. Election of Directors*. Except as otherwise provided within the Act or these Bylaws, Directors shall be elected by [{{dirctrs_elected_plur}} a plurality][{{dirctrs_elected_maj}} a majority][{{dirctrs_elected_suprmaj}} more than 60%] of the votes of the shares entitled to vote on the election of Directors and present in person, by remote communication, or represented by proxy duly authorized at a validly constituted meeting.
 [{{shares_in_classes}} ll. Voting in Classes*. Where a separate vote by a class or classes or series of shares is required, except where otherwise provided by the Act or these Bylaws, a majority of the outstanding shares of such class or classes or series then present in person, by remote communication, or represented by proxy duly authorized, shall constitute a quorum entitled to take action with respect to that vote on that matter.]
@@ -136,9 +136,9 @@ ll. Voting Rights*. For the purpose of determining those shareholders entitled t
 l. Directors
 ll. Number*. [{{dirs_bd_can_expand}} The authorized number of Directors of the Company shall be fixed by resolution of the Board of Directors from time to time. ][{{dirs_bd_cannot_expand}} The authorized number of Directors of the Company shall be fixed at {{dirs_number}}. ][{{dirs_not_shareholdrs}} Directors need not be shareholders.][{{dirs_shareholdrs}} Directors shall be shareholders [{{shares_corp_owners}} or duly authorized representatives of the collective entity holding title to shares] prior to their election to the Board.] If for any cause, the Directors shall not have been elected at an annual meeting, they may be elected as soon thereafter as convenient.
 ll. Powers*. The powers of the Company shall be exercised, its business conducted, and its property controlled by the Board of Directors, except as may be otherwise provided by the Act.
-ll. Term*. [{{dirs_elected_annually}} Directors shall be elected at each Annual Meeting of shareholders for a term of one year, provided that, irrespective of the foregoing term, each Director shall serve until his successor is duly elected and qualified or until his death, resignation, or removal. ][{{dirs_fixed_term}} Directors shall be elected at the Annual Meeting of shareholders following the conclusiong of the previous Director's {{dirs_term}}, provided that, irrespective of the foregoing term, each Director shall serve until his successor is duly elected and qualified or until his death, resignation, or removal. [{{dirs_no_reelect}} Directors may not stand for reelection following the conclusion of their term. ][{{dirs_one_reelect}} Directors may stand for reelection following the conclusion of their term if they have not previously stood for reelection. ][{{dirs_many_reelect}} Directors may stand for reelection following the conclusion of their term.]][{{dirs_bd_can_expand}} No decrease in the number of Directors constituting the Board of Directors shall shorten the term of any incumbent director.]
+ll. Term*. [{{dirs_elected_annually}} Directors shall be elected at each Annual Meeting of shareholders for a term of one year, provided that, irrespective of the foregoing term, each Director shall serve until his successor is duly elected and qualified or until his death, resignation, or removal. ][{{dirs_fixed_term}} Directors shall be elected at the Annual Meeting of shareholders following the conclusion of the previous Director's {{dirs_term}}, provided that, irrespective of the foregoing term, each Director shall serve until his successor is duly elected and qualified or until his death, resignation, or removal. [{{dirs_no_reelect}} Directors may not stand for reelection following the conclusion of their term. ][{{dirs_one_reelect}} Directors may stand for reelection following the conclusion of their term if they have not previously stood for reelection. ][{{dirs_many_reelect}} Directors may stand for reelection following the conclusion of their term.]][{{dirs_bd_can_expand}} No decrease in the number of Directors constituting the Board of Directors shall shorten the term of any incumbent director.]
 ll. Vacancies*. Unless otherwise provided in the Act, any vacancies on the Board of Directors resulting from death, resignation, disqualification, removal or other causes [{{dirs_bd_can_expand}} and any newly created directorships resulting from any increase in the number of directors] [{{dirs_bd_can_fill_vac}} shall, unless the Board of Directors determines by resolution that any such vacancies [{{dirs_bd_can_expand}} or newly created directorships] shall be filled by shareholders, be filled only by the affirmative vote of a majority of the directors then in office. Any Director elected in accordance with this Section shall hold office for the remainder of the full term of the Director for which the vacancy was created or occurred and until such director's successor shall have been elected and qualified. [{{shares_in_classes}} Where the holders of any class or classes of shares or series thereof are entitled to elect one or more Directors, vacancies [{{dirs_bd_can_expand}} and newly created directorships] of such class or classes or series shall, unless the Board of Directors determines by resolution that any such vacancies or newly created Directorships shall be filled by such shareholders, be filled by a majority of the Directors elected by such class or classes or series thereof then in office, or by a sole remaining Director so elected.]][{{dirs_bd_cannot_fill_vac}} shall be filled by shareholders at a Special Meeting the Chairperson or President, where the Chairperson is departing, shall call for such a purpose unless the time of the Director's departing is within three (3) months of the Annual Meeting.]
-ll. Resignation*. Any Director may resign at any time by delivering notice in writing or by electronic transmission to the Secretary, such resignation shall state whether it will be effective at a particular time, upon receipt by the Secretary, or at the pleasure of the Board. If no such specification is made, it shall be deemed effective at the pleasure of the Board of Directors. 
+ll. Resignation*. Any Director may resign at any time by delivering notice in writing or by electronic transmission to the Secretary, such resignation shall state whether it will be effective at a particular time, upon receipt by the Secretary, or at the pleasure of the Board. If no such specification is made, it shall be deemed effective at the pleasure of the Board of Directors.
 ll. Removal*. Subject to any limitations imposed by the Act, any Director may be removed during the Director's term, with or without cause, only by the affirmative vote of the holders of a majority of the shares [{{shares_in_classes}} of the class or series of shares entitled to elect such director or directors], given either at a special meeting of such shareholders duly called for that purpose or pursuant to a written consent of shareholders, and any vacancy thereby created may be filled by the affirmative vote of the holders of a majority of such shares represented at the meeting.
 ll. Meetings of the Board*. Regular or special meetings of the Board of Directors may be held at any time or date and at any place within or without the {{jurisdiction}} which has been designated by the Chairperson of the Board and publicized to all Directors, either orally or in writing, including and electronic transmission. No further notice shall be required for a regular meeting of the Board of Directors.
 ll. Meetings by Electronic Means*. Any member of the Board of Directors[{{dirs_bd_has_coms}}, or of any committee thereof,] may participate in a meeting by means of telephone or any other communications equipment so long as all persons participating in the meeting can hear each other. Participation in a meeting by such means shall constitute presence in person at such meeting.
@@ -146,8 +146,21 @@ ll. Quorum of Board Meetings*. A quorum of the Board of Directors shall consist 
 ll. Voting*. At each meeting of the Board of Directors at which a quorum is present, all questions and business shall be determined by the affirmative vote of a majority of the Directors present.
 [{{dirs_act_wo_mtg}} ll. Action Without Meeting*. Unless otherwise provided by the Act, any action required to be taken at any meeting of the Board of Directors may be taken without a meeting, without prior notice and without a vote, if a consent in writing or by electronic communication setting forth the action so taken is signed by Directors constituting more than a majority of the total number of Directors authorized herein.]
 [{{dirs_get_comp}} ll. Fees and Compensation*. Directors shall be entitled to such compensation for their services as may be approved by the Board of Directors, including, if so approved, by resolution of the Board, a fixed sum and expenses of attendance, if any, for attendance at each meeting of the Board [{{dirs_bd_has_coms}} and at any meeting of a committee of the Board of Directors].]
-ll. Chairperson - Duties*. The Chairperson of the Board of Directors, when present, shall preside at all meetings of the shareholders and the Board of Directors. If the Chairperson is unable to preside at such a meeting, the Chairperson may appoint another member of the Board of Directors or the President as the Chairperson *pro tempore* to preside at such meeting, and in the absence of such an appointment, the Board of Directors may appoint a member of the Board of Directors as the Chairperson *pro tempore*.
+ll. Chairperson of the Board*. The Chairperson of the Board shall be a Director prior to election as Chairperson. [{{dirs_chr_no_remvl}} A new Chairperson of the Board shall be elected by the Directors at the initial meeting following the vacancy of the Chairperson’s post. The Chairperson may be removed as Chairperson of the Board by a vote of more than [{{dirs_chr_rmvd_maj}} 50% of the then currently serving Directors][{{dirs_chr_rmvd_supermaj}} 75% of the then currently serving Directors].] The Chairperson may resign from solely the Chairperson role, or as a Director entirely, according to the same procedures for resignation of a Director under this Agreement. If the Chairperson for any reason loses his or her Directorship according to the terms of this Agreement, the Chairperson shall immediately cease as Chairperson of the Board.
+ll. Duties and Responsibilities of Chairperson*. [{{dirs_bd_chr_chairs_mtgs}} The Chairperson of the Board of Directors, when present, shall preside at all meetings of the Board of Directors. If the Chairperson is unable to preside at such a meeting, the Chairperson may appoint another member of the Board of Directors as the Chairperson *pro tempore* to preside at such meeting, and in the absence of such an appointment, the Board of Directors may appoint a member of the Board of Directors as the Chairperson *pro tempore*.] [{{dirs_bd_chr_sets_loca}} The Chairperson shall be solely and exclusively responsible for establishing the date, location, and time for all meetings of the Board.][{{dirs_bd_chr_sets_agda}} The Chairperson shall also be responsible, taking into account the input of the Secretary and the Executive Director, for establishing the agenda for all meetings of the Board.][[{{dirs_bd_chr_sets_coms}} The Chairperson shall also be responsible for chairing the Adminsitrative committee of the Board and for assigning the Directors to the then utilized committees of the Board.]
+[{{dirs_bd_has_sec}} ll. Secretary - Duties*. The Secretary shall be a Director prior to election as Secretary. A new Secretary shall be elected by the Directors at the initial meeting following the vacancy of the Secretary’s post. The Secretary may be removed as Secretary by a vote of four (4) Directors. The Secretary may resign from solely the Secretary role, or as a Director entirely, according to the same procedures for resignation of a Director under this Agreement. If the Secretary for any reason loses his or her Directorship according to the terms of this Agreement, the Secretary shall immediately cease as Secretary.]
+[{{dirs_bd_has_sec}} ll. Duties and Responsibilities of Secretary*. The Secretary shall be responsible for maintaining the records of the Company. The Secretary shall also be responsible for maintaining the minutes of the meetings of the Board.]
 [{{dirs_bd_has_coms}} l. Committees of the Board]
+[{{dirs_bd_has_coms}} ll. Committee Meetings*. Meetings of any Committee shall be reserved for solely the Directors then sitting on that Committee. Following the meeting of any Committee Meeting, the Chair of that Committee shall formally report to the entire Board as to the substance of the discussion, with the exemption of any matters which are confidential in nature or would cause a conflict of interest for any Director.]
+[{{dirs_bd_has_coms}} ll. Committee Membership*. No Director may sit on any more than one (1) Committee at any one time.[{{dirs_bd_chr_sets_coms}} Directors shall be nominated to Committees by the Chairperson and may be removed or reassigned by the Chairperson within the sole and exclusive discretion of the Chairperson.] ]
+[{{dirs_bd_has_coms}} ll. Administrative Committee*. There shall be established an administrative committee which shall have oversight of the administration of the Company. The Committee shall have no more than four (4) Directors sitting on the committee at any one time. Committee Members shall be nominated to the Committee by the Chairperson and shall serve as such until removal in the Chairperson's sole discretion, reassignment in the Chairperson's sole discretion, or resignation. The administrative committee shall be chaired by the Chairperson of the Board. The committee shall have responsibility to oversee the following areas of the Company's operations: ]
+[{{dirs_bd_has_coms}} lll. marketing strategy;]
+[{{dirs_bd_has_coms}} lll. human resources;]
+[{{dirs_bd_has_coms}} lll. sales and client relations;]
+[{{dirs_bd_has_coms}} lll. company operations;]
+[{{dirs_bd_has_coms}} The Committee shall not have oversight of any of the financial aspects of the above areas, as all financial oversight shall be affirmatively within the purview of the Financial Committee.]
+[{{dirs_bd_has_coms}} ll. Financial Committee*. There shall be established a financial committee which shall have oversight of the finances of the Company. The committee shall have no more than four (4) Directors sitting on the Committee at any one time committee Members shall be nominated to the Committee by the Chairperson and shall serve as such until removal in the Chairperson's sole discretion, reassignment in the Chairperson's sole discretion, or resignation. The financial committee shall be chaired by the Secretary of the Board. The committee shall have responsibility to oversee all the financial aspects of the Company's operations.]
+[{{dirs_bd_has_coms}} ll. Other Committees*. The Board may, in its sole and exclusive discretion, establish other committees which it, from time to time, deems necessary. With the exception of the Financial and Administrative Committees, the Board shall have the power to disband committees in its sole and exclusive discretion.]
 l. Officers
 ll. Officers Designated*. The officers of the Company shall include, if and when designated by the Board of Directors, [{{off_has_ceo}} the Chief Executive Officer, ][{{off_has_pres}} the President, ][{{off_has_ed}} Executive Director, ][{{off_has_vp_many}} one or more Vice Presidents, ][{{off_has_vp_one}} the Vice President, ][{{off_has_cfo}} the Chief Financial Officer, ][{{off_has_treas}} the Treasurer, ][{{off_has_cont}} the Controller,] and the Secretary, all of whom shall be elected at an annual organizational meeting of the Board of Directors. The Board of Directors may also appoint such other officers and agents with such powers and duties as it shall deem necessary. The Board of Directors may assign such additional titles to one or more of the officers as it shall deem appropriate. Any one person may hold any number of offices of the Company at any one time unless specifically prohibited therefrom by law. The salaries and other compensation of the officers of the Company shall be fixed by or in the manner designated by the Board of Directors.
 ll. General*. All officers shall hold office at the pleasure of the Board of Directors and until their successors shall have been duly elected and qualified, unless sooner removed. Any officer elected or appointed by the Board of Directors may be removed in accordance with these Bylaws. If the office of any officer becomes vacant for any reason, the vacancy may be filled by the Board of Directors.
@@ -159,9 +172,9 @@ ll. General*. All officers shall hold office at the pleasure of the Board of Dir
 ll. Duties of Secretary*. The Secretary shall attend all meetings of the shareholders and of the Board of Directors and shall record all acts and proceedings thereof in the minute book of the Company. The Secretary shall give notice in conformity with these Bylaws of all meetings of the shareholders and of all meetings of the Board of Directors [{{dirs_bd_has_coms}} and any committee thereof requiring notice]. The Secretary shall perform all other duties provided for in this Agreement and other duties commonly incident to the office and shall also perform such other duties and have such other powers as the Board of Directors shall designate from time to time.
 ll. Delegation of Authority*. The Board of Directors may from time to time delegate the powers or duties of any officer to any other officer or agent, notwithstanding any provision hereof.
 ll. Resignations*. Any officer may resign at any time by giving notice in writing or by electronic transmission to the Board of Directors, to the Chief Executive Officer, or to the Secretary. Any such resignation shall be effective when received by the person or persons to whom such notice is given, unless a later time is specified therein, in which event the resignation shall become effective at such later time. Unless otherwise specified in such notice, the acceptance of any such resignation shall not be necessary to make it effective.
-ll. Removal*. Any officer may be removed from office at any time, either with or without cause, by the affirmative vote of a majority of the Directors in office at the time, or by the unanimous written consent of the Directors in office at the time, or by any committee or superior officers upon whom such power of removal may have been conferred by the Board of Directors. 
+ll. Removal*. Any officer may be removed from office at any time, either with or without cause, by the affirmative vote of a majority of the Directors in office at the time, or by the unanimous written consent of the Directors in office at the time, or by any committee or superior officers upon whom such power of removal may have been conferred by the Board of Directors.
 l. Shares of Stock
-ll. Form and Execution of Certificates*. The shares of the Company shall be represented by certificates, or shall be uncertificated. Certificates for the shares of stock, if any, shall be in such form as is consistent with the Act. 
+ll. Form and Execution of Certificates*. The shares of the Company shall be represented by certificates, or shall be uncertificated. Certificates for the shares of stock, if any, shall be in such form as is consistent with the Act.
 ll. Lost Certificates*. A new certificate or certificates shall be issued in place of any certificate or certificates theretofore issued by the Company alleged to have been lost, stolen, or destroyed, upon the making of an affidavit of that fact by the person claiming the certificate or certificates of stock to be lost, stolen, or destroyed.
 ll. Record Date*. In order that the Company may determine the shareholders entitled to notice of or to vote at any meeting of shareholders, or to express consent to corporate action in writing without a meeting, or entitled to receive payment of any dividend or other distribution or allotment of any rights, or entitled to exercise any rights in respect of any change, conversion or exchange of stock or for the purpose of any other lawful action, the Board of Directors may fix a record date which shall not be more than sixty (60) nor less than ten (10) days before the date of such meeting or other required action. A determination of shareholders of record entitled to notice of or to vote at a meeting of shareholders shall apply to any adjournment of the meeting; provided, however, that the Board of Directors may fix a new record date for the adjourned meeting.
 [{{co_public}} ll. Transfers. Transfers of record of shares of stock of the Company shall be made only upon its books by the holders thereof, in person or by attorney duly authorized, and, in the case of stock represented by certificate, upon the surrender of a properly endorsed certificate or certificates for a like number of shares. The Company shall have power to enter into and perform any agreement with any number of shareholders[{{shares_in_classes}} of any one or more classes of stock of the Company to restrict the transfer of shares of stock of the Company of any one or more classes owned by such shareholders in any manner not prohibited by the Act].]
