@@ -1,29 +1,29 @@
 ---
 
 # Mixins
-agent_name: 
-agent_number: 
-co_address: 
-co_name: 
-init_dir_1: 
-init_dir_2: 
-init_dir_3: 
-shares_max_numb: 
-shares_par_val: 
+agent_name:
+agent_number:
+co_address:
+co_name:
+init_dir_1:
+init_dir_2:
+init_dir_3:
+shares_max_numb:
+shares_par_val:
 
 # Optional Clauses
-bd_manages: 
-co_private: 
-co_public: 
-shares_in_classes: 
-shares_in_classes_vot_no_vot: 
-somaliland_declar: 
+bd_manages:
+co_private:
+co_public:
+shares_in_classes:
+shares_in_classes_vot_no_vot:
+somaliland_declar:
 
 # Structured Headers
-level-1: 
-level-2: 
-no-indent: 
-no-reset: 
+level-1:
+level-2:
+no-indent:
+no-reset:
 
 ---
 
@@ -32,14 +32,14 @@ We, the undersigned, who intend to form a [{{co_private}} Private Company][{{co_
 ```
 l. Formation
 ll. Name*. The name of the Company shall be {{co_name}} (the "Company").
-ll. Principal Place of Business*. The location of the principal place of business of the Company is {{co_address}}. 
+ll. Principal Place of Business*. The location of the principal place of business of the Company is {{co_address}}.
 ll. Registered Agent*. The Company's initial agent for service of process shall be {{agent_name}} whose mobile number is {{agent_number}}. The agent for service may be changed to such other agent as the Directors may designate from time to time.
 ll. Purpose of Business*. The purpose of the Company is to engage in the conduct of any legal business ventures as directed by the Board of Directors.
 l. Ownership
 ll. Shares of Ownership*. The maximum number of shares of equity ownership which the Company is authorized to have outstanding is {{shares_max_numb}}. The par value of these shares shall initially be {{shares_par_val}}. The liability of the Members is hereby limited to their share capital in the Company. The initial allocation of shares is listed with the signatures below.
 ll. Initial Shareholders*. The initial shareholders [{{shares_in_classes}} and classes of initial share distribution ]are listed in the table below.
 [{{shares_in_classes_vot_no_vot}} ll. Classes of Shares*. Two classes of shares shall be established.]
-[{{shares_in_classes_vot_no_vot}} lll. The first class of shares shall be entitled to nominate and elect Directors of the Board of Directors and on all Company matters at any Annual or Special Meeting of the Shareholders unless otherwise prohibited by law or the Company's By-Laws. This class shall be shall be known as the "Voting Class".] 
+[{{shares_in_classes_vot_no_vot}} lll. The first class of shares shall be entitled to nominate and elect Directors of the Board of Directors and on all Company matters at any Annual or Special Meeting of the Shareholders unless otherwise prohibited by law or the Company's By-Laws. This class shall be shall be known as the "Voting Class".]
 [{{shares_in_classes_vot_no_vot}} lll. The second class of shares shall not be entitled to nominate or elect Directors of the Board of Directors nor on any Company matters at any Annual or Special Meeting of the Shareholders unless otherwise allowed by the Company's By-Laws. This class shall be known as the "Non-Voting Class." (b) Where any law strictly requires all shares of all classes to vote on any given Company matter presented at any Annual or Special Meeting of the Shareholders, the entire Non-Voting Class shall, for the purposes of such vote and such vote only, constitute (0.01%) of the outstanding shares entitled to vote. Shares of the Non-Voting Class, for the purpose of distribution of dividends only shall be entitled to their full pro-rata proportion of the total dividend amount to be distributed according to the percentage of the shares then outstanding, regardless of whether such shares are in the Voting or Non-Voting Class.]
 l. Management
 [{{bd_manages}} ll. Composition of Management*. The management of the Company's affairs will be vested in the Board of Directors as provided for in the Company's By-Laws or unless otherwise dictated by law.]
