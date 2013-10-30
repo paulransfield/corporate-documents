@@ -1,0 +1,68 @@
+---
+
+# Mixins
+agree_date:
+company_address:
+company_name:
+company_registration:
+company_rep:
+party1:
+party1_full:
+party1_type:
+party2:
+party2_full:
+party2_type:
+regulating_act:
+shares_consideration:
+shares_number:
+shares_off_outstand:
+shares_offeree:
+shares_offeror:
+
+# Optional Clauses
+declaration_agreement:
+somaliland:
+transfer_bd_must_approve:
+transfer_btwn_only_bd_members:
+
+# Structured Headers
+level-1:   "# Article 1."
+level-2:   "* Section 1."
+no-indent: l., ll.
+
+---
+
+This Agreement ("Agreement") is entered into as of {{agree_date}} by and between {{party1_full}} ("{{party1}}"), and {{party2_full}} ("{{party2}}"). {{party1}} is {{party1_type}}. {{party2}} is {{party2_type}}. {{company_name}} ("Company") is registered under the laws of {{company_registration}}, with an address of {{company_address}}, operating in and therefore subject to the laws of {{company_registration}}, and represented by {{company_rep}}.
+
+IN CONSIDERATION OF THE MUTUAL PROMISES AND COVENANTS CONTAINED IN THIS AGREEMENT, THE PARTIES AGREE AS FOLLOWS.
+
+```
+l. Offer and Acceptance of Shares for Transfer.
+ll. Offer*. The parties agree that {{shares_offeror}} has made a valid offer of sale of {{shares_number}} of {{shares_offeror}}'s currently outstanding {{shares_off_outstand}} shares in the Company.
+ll. Acceptance*. The parties agree that {{shares_offeree}} has accepted the above referenced offer to purchase {{shares_number}} shares of {{shares_offeror}}'s currently outstanding share capital.
+ll. Consideration*. The parties agree that sufficient consideration for the purchase of these shares has been accepted {{shares_consideration}}.
+l. Date of Transfer.
+The parties agree that on the above referenced date, the share transfer agreement shall be authorized and completed.
+l. Acceptance of Share Transfer by {{company_name}} Board
+[{{transfer_btwn_only_bd_members}} The parties, as the sole and exclusive Board Members for the above referenced Company represent and warrant that by signing this Share Transfer Agreement that the transfer of shares shall be accepted by the Company and registered on the corporate books of shareholders. The parties represent and warrant that they hereby contain sufficient power – as the sole and exclusive Members of the Board – to speak on behalf of the company and register this transfer.]
+[{{transfer_btwn_only_bd_members}} The parties further represent and warrant that the Company accepts this transfer as valid and legal under the Articles of Association of {{company_name}}, the By-Laws of {{company_name}}, and the {{regulating_act}}. The signatures of these parties shall constitute acceptance and registration of the transfer by {{company_name}}.]
+[{{transfer_bd_must_approve}} By signature of the relevant number of Directors according to the By-Laws of {{company_name}} placed below, the Board consents to the above referenced transfer of shares.]
+Upon signature by the parties below, the shares shall be marked *pari passu* as validly paid. Further, the signature of this transfer agreement shall validly lodge the transfer on the registration of shareholders of {{company_name}}, and this Agreement shall constitute valid transfer and acceptance by {{company_name}} [{{somaliland}} in accordance with Section 88(2)(a) of the Companies Act of Somaliland. By signing this Agreement the parties hereby fully accept the transfer as **CERTIFICATE LODGED** in accordance with that section].
+[{{declaration_agreement}} The execution of this agreement shall operate to nullify the Declaration of Trust Agreement signed between the parties, except as to any third parties which signed the Declaration of Trust as well as to any and all indemnification or hold harmless provisions within the Declaration of Trust that shall survive in perpetuity as to any and all actions taken by {{shares_offeror}} on behalf of the Beneficiary Owner as defined in the Declaration of Trust Agreement.]
+l. Final Provisions.
+ll. Construction*. This Agreement shall be construed and enforced pursuant to the laws of {{company_registration}}. The Parties declare that Agreement shall not be construed against any party on the grounds that such party drafted the Agreement or caused it to be drafted. The headings and titles of the paragraphs of this Agreement are for convenience purposes only, and are not intended to define, limit or construe the contents of the various paragraphs. Time is of the essence of every term, condition, obligation and provision hereof unless otherwise stated or implied.
+ll. Entire Agreement*. The parties certify that this Agreement including the Exhibits and Attachments listed below sets forth the entire understanding of the parties with respect to the subject matter hereof and supersedes all prior agreements of the parties, whether oral or written, relating to any or all matters covered by and contained or otherwise dealt with in this Agreement. The parties agree that no provision of this Agreement may be modified, except by a written instrument duly signed and acknowledged by each of the parties hereto.
+ll. Severance*. If any provision or clause of this Agreement, or any portion thereof, is held to be invalid by a court of competent jurisdiction, then such provision or clause shall be severed herefrom without affecting any other provision, the balance of which shall remain in full force and effect.
+ll. Capacity to Contract*. The parties each represent and warrant that they have the power, authority and right to enter into this Agreement and to carry out and perform the terms, covenants and conditions hereof. The parties certify they have been given the opportunity to consult with appropriate legal counsel, and have taken advantage of that opportunity to the extent desired. The parties further acknowledge they have read and understand this Agreement, are fully aware of its legal effect, and have entered into it freely based on the exercise of their own judgment and free will.
+```
+
+IN WITNESS HEREOF, the parties have executed this Agreement as of the date set forth above.
+
+
+For {{party1}}: ______________________________________________ (signature)
+
+Dated:________________________By: ________________________ (print)
+
+For {{party2}}: ________________________________________________ (signature)
+
+Dated: ________________________By: ________________________ (print)

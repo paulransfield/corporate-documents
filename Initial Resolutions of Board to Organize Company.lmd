@@ -1,0 +1,160 @@
+---
+
+# Mixins
+bank_name:
+board_compensation:
+board_initial_chair:
+company_ein:
+company_name:
+fiscal_year_end:
+principal_place_bus_address:
+registered_office_address:
+shares_author:
+shares_price:
+
+# Optional Clauses
+accountant_exists:
+accountant_not_exists:
+bank_acts_exists:
+bank_acts_not_exists:
+board_elects_chair:
+ein_exists:
+ein_not_exists:
+incorp_expenses_tax_deducted:
+shares_given_certs:
+shares_regist_exempt:
+shares_regist_reqd:
+
+# Structured Headers
+no-indent:
+no-reset:
+
+---
+
+Action by Unanimous Written Consent of the Board of Directors of {{company_name}} ("Company")
+
+The undersigned, constituting all of the Directors of the Company, hereby take the following actions and adopt the following resolutions by unanimous written consent without a meeting:
+
+# Certificate of Incorporation
+
+*RESOLVED*: That a copy of the Certificate of Incorporation of the Company, as filed with the Secretary of State on Date of Incorporation and bearing the file stamp and certification of the Secretary of State, shall be inserted in the Minute Book of the Company.
+
+# Minute Book
+
+*RESOLVED*: That the Company shall maintain as part of its corporate records a “Minute Book” which shall include, but not be limited to,
+
+(a) a record of its Certificate of Incorporation and amendments thereto;
+(b) its Bylaws and amendments thereto; and
+(c) minutes of all meetings of its Directors and of its Shareholders with the time and place of holding, whether regular or special (and if special how authorized), the notice thereof given, the number of shares present or represented at Shareholders’ meetings, and the proceedings of the meetings.
+
+# Shares Certificate
+
+*RESOLVED*: That the Shares certificate representing the Common Shares of the Company shall be in the form of the Shares certificate attached hereto as Exhibit A, with such appropriate information entered thereon as to the capitalization of the Company at the time of issuance and otherwise as may be required by the General Corporation Law of Delaware.
+
+# Issuance of Common Shares
+
+*RESOLVED*: That the Officers are authorized to sell and issue on behalf of the Company a total of {{shares_author}} shares of Shares to the individuals or entities listed below (the “Purchasers”) in the amounts specified opposite each name, at a price of {{shares_price}} per share which the Board of Directors determines to be the fair value of such Shares, in exchange for cash, cancellation of indebtedness (including organizational costs incurred by the purchasers prior to the incorporation of the Company), promissory note, assets or any combination of the foregoing (such Shares shall be subject to the vesting provisions described in such Shares Purchase Agreement, if any):
+
++-----------------------+----------------------+-----------------------+
+| Purchaser Name        |  State of Residence  | Number of Shares      |
++=======================+======================+=======================+
+| Name                  | State                | Shares                |
++-----------------------+----------------------+-----------------------+
+| Name                  | State                | Shares                |
++-----------------------+----------------------+-----------------------+
+
+*RESOLVED FURTHER*: That the Board of Directors has determined that each of the Purchasers has either a pre-existing personal or business relationship with the Company, its Officers or Directors, or sufficient business or financial experience so that the Company can reasonably assume that such Purchaser has the capacity to protect his own interests in connection with the proposed sale of the Shares.
+
+*RESOLVED FURTHER*: That each Purchaser shall represent that such Purchaser is purchasing for his own account, and not with a view to or for sale in connection with, any distribution of the Shares.
+
+*RESOLVED FURTHER*: That the offer and sale of the Shares will not be accompanied by the publication of any advertisement.
+
+[{{shares_given_certs}} *RESOLVED FURTHER*: That, upon receipt of consideration and an executed Shares purchase agreement, the Company is authorized and directed to issue share certificates representing the Shares.]
+
+[{{shares_regist_exempt}} *RESOLVED FURTHER*: That the Shares sales authorized in the above resolution shall be conducted in such a manner as to qualify for the exemption from the state requirements regarding registration of the sale of securities as well as such other securities laws as may be applicable to Purchasers residing outside of Governing State Securities Law, if any.]
+
+[{{shares_regist_reqd}} *RESOLVED FURTHER*: That the Officers of the Company, after consultation with legal counsel, are authorized and directed to execute and file a form of notification advising the proper state authorities of the issuance of the Shares.]
+
+[{{board_elects_chair}} # Election of Chairperson of Board]
+
+[{{board_elects_chair}} *RESOLVED*: The Board elects the following individual as the Chairperson of the Board of Directors of the Company with all the rights and responsibilities identified by and subject to any relevant law, and the Company's Articles of Incorporation, By Laws and / Operating Agreement. The rights and responsibilities of the Chairperson of the Board of Directors shall be further subject to any resolution of the Shareholders which does not violate the above identified documents. The Chairperson of the Board shall serve until removed, resignation, or replacement according to the terms of the any relevant law, the Company's Articles of Incorporation, By Laws and / Operating Agreement, or any resolution of the Shareholders. The Chairperson of the Board of Directors shall be: {{board_initial_chair}}.]
+
+# Selection of Officers
+
+*RESOLVED*: That the following persons are elected as Officers of the Company to the offices set forth opposite their respective names, to serve at the pleasure of the Board of Directors:
+
++-----------------------+----------------------+
+| Name                  |  Title               |
++=======================+======================+
+| Officer1              | Title1               |
++-----------------------+----------------------+
+| Officer2              | Title2               |
++-----------------------+----------------------+
+
+*RESOLVED*: That the the Officers noted above are authorized to sign in the name of the Company any Agreement and to obligate the Company in any respect relating to matters of the business of the Company. The Officers are further authorized to delegate such authority in the Officer's discretion. Any obligation agreed to by any Officer must not violate the corporate policies of the Company and must not violate any budget authorized by the Board of Directors.
+
+*RESOLVED FURTHER*: That the compensation, rights, duties, and responsibilities of each of these Officers shall be on the terms included in any employment agreement or other similar agreement concluded between the Officer and the Company.
+
+# Accountants
+
+*RESOLVED*: That a duly certified public accounting firm [{{accountant_not_exists}} to be chosen by the Officers] [{{accountant_exists}} previously chosen by the Incorporators, Directors, newly appointed Officers, or any other authorized individual] shall be retained by the Company to set up, prepare, and maintain the financial records of the Company, and to prepare such financial statements and tax returns as may be required of the Company or requested by its Officers and Directors from time to time.
+
+# Fiscal Year
+
+*RESOLVED*: That the fiscal year of the Company shall end on {{fiscal_year_end}} of each year.
+
+# Incorporation Expenses
+
+*RESOLVED*: That the proper Officers are authorized and directed to pay the expenses of incorporation and organization of the Company and the expenses incurred in the formation of the Company to those individuals who properly paid those expenses on behalf of the Company.
+
+[{{incorp_expenses_tax_deducted}} *RESOLVED FURTHER*: That the Company elects to treat its organizational expenses, as that term is defined by Section 248 of the Internal Revenue Code of 1986, as amended, as deferred expenses to be deducted ratably over a period of sixty (60) months beginning with the month in which the Company begins business; and that the Officers are authorized and directed to take such action as necessary to effectuate this election.]
+
+# Employer Identification Number
+
+[{{ein_not_exists}} *RESOLVED*: That the proper Officers of the Company are directed to apply to the IRS District Director for an employer’s identification number on Form SS-4.]
+
+[{{ein_exists}} *RESOLVED*: That the application previously submitted to the IRS District Director for an employer’s identification number on Form SS-4 which resulted in an IRS Employer Identification Number ("EIN") of {{company_ein}} shall be the EIN of the Company.]
+
+# Withholding Taxes
+
+*RESOLVED*: That the proper Officers are authorized and directed to consult with the bookkeeper, auditors and attorneys of the Company in order to be fully informed as to, and to collect and pay promptly when due, all withholding taxes for which the Company may now be (or hereafter become) liable.
+
+# Qualification to Do Business
+
+*RESOLVED*: That the Officers of the Company are authorized to take any and all steps that they deem to be necessary to qualify the Company to do business as a foreign corporation in each state that the Officers determine such qualification to be necessary or appropriate.
+
+# Indemnification
+
+*RESOLVED*: That the Company shall enter into an Indemnification Agreement substantially in the form attached to these resolutions as Exhibit C with each of the Company’s present and future Directors and Officers.
+
+# Management of Fiscal Affairs
+
+*RESOLVED*: That {{bank_name}} (or such other bank as the Officers of the Company shall, in their discretion, select) is selected and designated as a depository of funds of the Company, and that [{{bank_acts_not_exists}} the proper Officers are authorized to open and maintain, in the name of the Company, a checking, savings, safe deposit, payroll or other account or accounts with said depository] [{{bank_acts_exists}} the checking, savings, safe deposit, payroll or other account or accounts with said depository previously opened, in the name of the Company, by individuals authorized to open and maintain them are adopted by the Board and that responsibility for continued maintenance of said account or accounts shall be vested with the Officers. The Officers are directed to complete any necessary forms or paperwork required by said depository to transfer responsibility for continued maintenance of said account or accounts from the individuals who opened the account or accounts to the proper Officers if such action is necessary].
+
+*RESOLVED FURTHER*: That the standard form of corporate banking resolutions, as required by said bank, necessary to accomplish the foregoing resolution are approved and adopted as the resolutions of this Board of Directors, and the Officers are authorized to execute, certify, and deliver a copy thereof to said bank as the resolutions of this Company.
+
+# Board Compensation
+
+*RESOLVED*: That until otherwise changed, amended or modified by the Board of Directors, that compensation for each of the Directors is hereby established at: {{board_compensation}}.
+
+# Places of Business
+
+*RESOLVED*: That Company shall maintain its Principal Place of Business at the following location {{principal_place_bus_address}} following any necessary registration as a foreign corporation which may be required prior to opening said Principal Place of Business.
+
+*RESOLVED FURTHER*: The Officers are further directed to register with the proper State authorities in both the State of Incorporation and in the State where the Principal Place of Business is located that the following location shall be considered the Registered Office for any official communication required between the Company and all government offices: {{registered_office_address}}.
+
+# Omnibus Resolution
+
+*RESOLVED*: That each of the Officers of the Company is authorized and empowered to take such other actions and sign such other documents as may be necessary or advisable to carry out the intent and accomplish the purposes of the foregoing resolutions.
+
+This action may be signed in one or more counterparts, each of which shall be deemed an original and all of which together shall constitute one instrument.
+
+ON BEHALF OF THE COMPANY, AND FOR THE BOARD OF DIRECTORS, THE ABOVE IS RESOLVED
+
+Signature: ______________________________
+
+Print: _________________________
+
+Title: _____________________________
+
+Date: ________________________
